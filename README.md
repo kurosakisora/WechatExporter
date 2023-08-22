@@ -24,16 +24,18 @@ BUG!!! 1.8.0.7以前的版本异步加载方式存在一个比较严重的小白
   
 ## 操作步骤：
 1. 通过iTunes将手机备份到电脑上(备份时不要选择设置口令)，Windows操作系统一般位于目录：C:\用户[用户名]\AppData\Roaming\Apple Computer\MobileSync\Backup\。Android手机可以找一个iPad/iPhone设备，把聊天记录迁移到iPad/iPhone设备上，然后通过iTunes备份到电脑上。
+2. ![image](https://github.com/BlueMatthew/WechatExporter/assets/13403496/42032588-622e-4e39-b4f5-b4bb2cc56885)
+
 ![iTunesBackup-960](https://user-images.githubusercontent.com/37573096/125906418-090d4ac8-a2ba-4a26-9db2-c6dbed4b0a3c.png)
   
-2. 下载执行文件（最新版本下载链接见上）。
+3. 下载执行文件（最新版本下载链接见上）。
 
-3. 执行解压出来的WechatExport.exe/WechatExporter.app (Windows下如果运行报缺少必须的dll文件，请安装[Visual C++ 2017 redist](https://aka.ms/vs/16/release/vc_redist.x64.exe)后再尝试运行)
+4. 执行解压出来的WechatExport.exe/WechatExporter.app (Windows下如果运行报缺少必须的dll文件，请安装[Visual C++ 2017 redist](https://aka.ms/vs/16/release/vc_redist.x64.exe)后再尝试运行)
 
-4. 按界面提示进行操作。  
+5. 按界面提示进行操作。  
 ![Windows界面截屏](https://src.wakin.org/github/wxexp/screenshots/win.png) ![MacOS界面截屏](https://src.wakin.org/github/wxexp/screenshots/mac.png###)
 
-5. 导出后的页面示例：  
+6. 导出后的页面示例：  
 ![导出后的页面示例截屏](https://src.wakin.org/github/wxexp/demo/demo.png)
   
 [点击链接可打开网页：https://src.wakin.org/github/wxexp/demo/](https://src.wakin.org/github/wxexp/demo/)
